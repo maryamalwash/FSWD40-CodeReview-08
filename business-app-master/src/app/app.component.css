@@ -1,0 +1,58 @@
+header {
+  background-color: #822C91;
+  padding: 3%;
+  text-align: center; }
+
+.heroimage {
+  padding: 5vw;
+  background: linear-gradient(rgba(86, 29, 96, 0.3), rgba(86, 29, 96, 0.5)), url(../assets/image/computer-1245714_1280.jpg);
+  background-size: cover;
+  font-family: "Crete Round", serif;
+  
+  color: white;
+  text-align: center; }
+#hh{
+	font-size: 10vw;
+}
+.col-lg-6{
+ 
+   
+    background-color: #D5C1D8;  
+    font-family: "Roboto", sans-serif;
+}
+.col-lg-3{
+ 
+   
+    background-color: #D5C1D8;  
+    font-family: "Roboto", sans-serif;
+}
+.col-lg-12{
+ 
+   
+    background-color: #D5C1D8;  
+    font-family: "Roboto", sans-serif;
+}
+
+button{
+  font-size: 3vw;
+    background-color: #A5D6CF;
+    border: 2px solid gray;
+    border-radius: 8px;
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-top: auto;
+    padding: 0;
+    outline: none;
+  }
+.imgg{
+  width: 5vw;
+    height: 3vw;
+    margin: 1%
+}
+
+.footer{
+  padding: 3%;
+  text-align: center; 
+
+}

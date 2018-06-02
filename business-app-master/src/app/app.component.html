@@ -1,0 +1,23 @@
+<header>
+  <img src="../../assets/image/logo-coders-dating.png" alt="header" width="60%">
+</header>
+<div class="heroimage">
+  <h1 id="hh"> Welcome to my  Website</h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div *ngFor="let item of items | async" class="col-lg-3 col-md-6  col-sm-12">
+      <img src="{{item.myPhoto}}" alt="image" width="100%" height="100%">
+      <h1> Name: {{item.name}}</h1>
+      <h1>Surname: {{item.surname}}</h1>
+      <h1>Age: {{item.age}}</h1>
+      <button class="like" type="button">like</button>
+      <h1>{{item.likes}}</h1>
+      <img class="imgg" src="../../assets/image/like.png"></div>
+  </div>
+</div>
+<br>
+<hr>
+<div class="footer">
+  <img src="../../assets/image/logo-coders-dating-footer.png" alt="footer" width="40%">
+</div>

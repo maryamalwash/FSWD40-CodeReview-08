@@ -1,0 +1,95 @@
+ [{
+        "name": "John",
+        "surname": "Doe",
+        "favoritePerformers": ["Justin Timberlake", "<br>", "Ed Sheeran", "<br>", "Emma Watson"],
+        "age": 24,
+        "myPhoto": "../../assets/image/boy1.800x1000.jpg",
+        "likes": 5,
+        "person": "male"
+    },
+
+    {
+        "name": "Maxina",
+        "surname": "Musterman",
+        "favoritePerformers": ["Matt Damon", "<br>", "Ed Sheeran", "<br>", "Tom Cruise"],
+        "age": 25,
+        "myPhoto": "../../assets/image/girl1.800x1000.jpg",
+        "likes": 0,
+        "person": "female"
+    },
+
+    {
+        "name": "Jane",
+        "surname": "Doe",
+        "favoritePerformers": ["Natalie Portman", "<br>", "Tom hanks", "<br>", "Emma stone"],
+        "age": 23,
+        "myPhoto": "../../assets/image/girl2.800x1000.jpg",
+        "likes": 0,
+        "person": "female"
+    },
+
+    {
+        "name": "Max",
+        "surname": "Musterman",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 22,
+        "myPhoto": "../../assets/image/boy2.800x1000.jpg",
+        "likes": 0,
+        "person": "male"
+    },
+    {
+        "name": "salma",
+        "surname": "mood",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 18,
+        "myPhoto": "../../assets/image/woman1.jpg",
+        "likes": 0,
+        "person": "female"
+    },
+    {
+        "name": "ahmed",
+        "surname": "dood",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 27,
+        "myPhoto": "../../assets/image/man1.jpg",
+        "likes": 0,
+        "person": "male"
+    },
+    {
+        "name": "ayat",
+        "surname": "saker",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 21,
+        "myPhoto": "../../assets/image/woman2.jpg",
+        "likes": 0,
+        "person": "female"
+    },
+    {
+        "name": "sameh",
+        "surname": "shahin",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 19,
+        "myPhoto": "../../assets/image/man2.jpg",
+        "likes": 0,
+        "person": "male"
+    },
+    {
+        "name": "Maryam",
+        "surname": "Alwash",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 19,
+        "myPhoto": "../../assets/image/woman3.jpg",
+        "likes": 0,
+        "person": "female"
+    },
+    {
+        "name": "alex",
+        "surname": "Musterman",
+        "favoritePerformers": ["Reese Witherapoon ", "<br>", "Tom Hanks", "<br>", "Beyonce"],
+        "age": 25,
+        "myPhoto": "../../assets/image/man3.jpg",
+        "likes": 0,
+        "person": "male"
+    }
+
+]
