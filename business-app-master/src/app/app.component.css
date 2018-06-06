@@ -14,7 +14,7 @@ header {
 #hh{
 	font-size: 10vw;
 }
-.col-lg-6{
+.col-md-6{
  
    
     background-color: #D5C1D8;  
@@ -26,7 +26,7 @@ header {
     background-color: #D5C1D8;  
     font-family: "Roboto", sans-serif;
 }
-.col-lg-12{
+.col-sm-12{
  
    
     background-color: #D5C1D8;  
